@@ -1,2 +1,2 @@
 # The-atomic-blog
-Just a cloned blog like app.
+Refracturing a  blog like app to practice ContextApi
